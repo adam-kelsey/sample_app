@@ -9,4 +9,11 @@ describe StaticPagesController do
     end
   end
 
+  def home
+end
+
+def help
+end
+
+
 end
